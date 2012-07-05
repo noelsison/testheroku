@@ -14,5 +14,5 @@ urlpatterns = patterns('',
 
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
-    url(r'^$','morefun.views.view_index')
+    #url(r'^$','morefun.views.view_index')
 )
